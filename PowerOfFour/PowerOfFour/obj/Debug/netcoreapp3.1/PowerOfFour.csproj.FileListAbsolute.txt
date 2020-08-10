@@ -1,0 +1,13 @@
+C:\Projects\DataStructures\LeetCode\PowerOfFour\PowerOfFour\bin\Debug\netcoreapp3.1\PowerOfFour.exe
+C:\Projects\DataStructures\LeetCode\PowerOfFour\PowerOfFour\bin\Debug\netcoreapp3.1\PowerOfFour.deps.json
+C:\Projects\DataStructures\LeetCode\PowerOfFour\PowerOfFour\bin\Debug\netcoreapp3.1\PowerOfFour.runtimeconfig.json
+C:\Projects\DataStructures\LeetCode\PowerOfFour\PowerOfFour\bin\Debug\netcoreapp3.1\PowerOfFour.runtimeconfig.dev.json
+C:\Projects\DataStructures\LeetCode\PowerOfFour\PowerOfFour\bin\Debug\netcoreapp3.1\PowerOfFour.dll
+C:\Projects\DataStructures\LeetCode\PowerOfFour\PowerOfFour\bin\Debug\netcoreapp3.1\PowerOfFour.pdb
+C:\Projects\DataStructures\LeetCode\PowerOfFour\PowerOfFour\obj\Debug\netcoreapp3.1\PowerOfFour.csprojAssemblyReference.cache
+C:\Projects\DataStructures\LeetCode\PowerOfFour\PowerOfFour\obj\Debug\netcoreapp3.1\PowerOfFour.AssemblyInfoInputs.cache
+C:\Projects\DataStructures\LeetCode\PowerOfFour\PowerOfFour\obj\Debug\netcoreapp3.1\PowerOfFour.AssemblyInfo.cs
+C:\Projects\DataStructures\LeetCode\PowerOfFour\PowerOfFour\obj\Debug\netcoreapp3.1\PowerOfFour.csproj.CoreCompileInputs.cache
+C:\Projects\DataStructures\LeetCode\PowerOfFour\PowerOfFour\obj\Debug\netcoreapp3.1\PowerOfFour.dll
+C:\Projects\DataStructures\LeetCode\PowerOfFour\PowerOfFour\obj\Debug\netcoreapp3.1\PowerOfFour.pdb
+C:\Projects\DataStructures\LeetCode\PowerOfFour\PowerOfFour\obj\Debug\netcoreapp3.1\PowerOfFour.genruntimeconfig.cache
